@@ -132,7 +132,7 @@ for(int k = 0; k < 100; k++){
 	    wrongOrder[i] = j--;
     }
     
-    //almostSorted2 has two numbers off; index 3 and 4 are swapped
+    //almostSorted2 has two numbers off; indeces 3 and 4 are swapped
     temp = almostSorted2[3];
     almostSorted2[3] = almostSorted2[4];
     almostSorted2[4] = temp;
@@ -148,7 +148,7 @@ for(int k = 0; k < 100; k++){
     almostSorted5[6] = almostSorted5[7];
     almostSorted5[7] = temp;
     
-    //almostSorted2 has 10 numbers off; indes 0-4 switched with 10-14
+    //almostSorted2 has 10 numbers off; indeces 0-4 switched with 10-14
     for(int i=0; i < 5; i++){
         temp = almostSorted10[i];
         almostSorted10[i] = almostSorted10[i+10];
