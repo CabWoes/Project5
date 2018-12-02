@@ -1,0 +1,6 @@
+Data Type,Insert Sort Time,Selection Sort Time,Bubble Sort Time,Merge Sort Time,Size of Array,Repeat
+Random,1.4 ± .1,2.2 ± .1,1.7 ± .1,.1 ± .1,n = 10k,100x
+Almost Sorted (m = 2),1.1 ± .1,2.3 ± .1,1.8 ± .1,.1 ± .1,n = 10k,100x
+Almost Sorted (m = 5),1.2 ± .1,2.2 ± .1,1.6 ± .1,.08 ± .1,n = 10k,100x
+Almost Sorted (m = 10),1.1 ± .1,2.2 ± .1,1.6 ± .1,.08 ± .1,n = 10k,100x
+Sorted in Wrong Order,1.5 ± .1,2.6 ± .1,2.4 ± .1,.08 ± .1,n = 10k,100x
